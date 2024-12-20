@@ -1,0 +1,11 @@
+Team,Home/ Away,Flight Time,Flight Status,Airports,Arrival Date,Arrival Time,Hours After Arrival,Hours Since Last Game,Game Day,Game Time (EST),Opponent,Opponent Flight Time,Opponent Flight Status,Opponent Arrival Date,Opponent Arrival Time,Opponent Airports,Opponent Hours After Arrival,Opponent Hours Since Last Game
+Atlanta Hawks,Away,1:31,Landed,ATL / MDW,04/16/24,03:04 PM CDT,29.43,-2.5,04/17/24,9:30 pm,Chicago Bulls,2:17,Landed,04/14/24,06:02 PM CDT,EWR / ORD,74.47,-2.5
+Chicago Bulls,Home,2:17,Landed,EWR / ORD,04/14/24,06:02 PM CDT,74.47,-2.5,04/17/24,9:30 pm,Atlanta Hawks,1:31,Landed,04/16/24,03:04 PM CDT,ATL / MDW,29.43,-2.5
+Cleveland Cavaliers,Home,3:45,Landed,LAX / CLE,04/07/24,11:50 PM EDT,301.17,141.5,04/20/24,1:00 pm,Orlando Magic,2:00,Landed,04/13/24,01:41 AM EDT,PHL / MCO,179.32,141.5
+Denver Nuggets,Home,2:10,Landed,MEM / DEN,04/14/24,08:15 PM MDT,142.25,146.5,04/20/24,8:30 pm,Los Angeles Lakers,3:58,Landed,04/17/24,01:09 AM PDT,MSY / LAX,88.35,94.5
+Los Angeles Lakers,Away,3:58,Landed,MSY / LAX,04/17/24,01:09 AM PDT,88.35,94.5,04/20/24,8:30 pm,Denver Nuggets,2:10,Landed,04/14/24,08:15 PM MDT,MEM / DEN,142.25,146.5
+Miami Heat,Away,2:41,Scheduled,PHL / MIA,04/18/24,01:26 AM EDT,25.30,-2.5,04/17/24,7:00 pm,Philadelphia 76ers,3:10,Landed,04/08/24,03:10 PM EDT,SAT / PHL,219.83,-2.5
+Minnesota Timberwolves,Home,1:46,Landed,DEN / MSP,04/11/24,01:46 PM CDT,216.73,141.5,04/20/24,3:30 pm,Phoenix Suns,2:58,Landed,04/14/24,08:07 PM MST,MSP / PHX,137.38,141.5
+Orlando Magic,Away,2:00,Landed,PHL / MCO,04/13/24,01:41 AM EDT,179.32,141.5,04/20/24,1:00 pm,Cleveland Cavaliers,3:45,Landed,04/07/24,11:50 PM EDT,LAX / CLE,301.17,141.5
+Philadelphia 76ers,Home,3:10,Landed,SAT / PHL,04/08/24,03:10 PM EDT,219.83,-2.5,04/17/24,7:00 pm,Miami Heat,2:41,Scheduled,04/18/24,01:26 AM EDT,PHL / MIA,25.30,-2.5
+Phoenix Suns,Away,2:58,Landed,MSP / PHX,04/14/24,08:07 PM MST,137.38,141.5,04/20/24,3:30 pm,Minnesota Timberwolves,1:46,Landed,04/11/24,01:46 PM CDT,DEN / MSP,216.73,141.5
